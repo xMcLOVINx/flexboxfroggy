@@ -331,14 +331,16 @@ var messages = {
     'lv': 'Viegls',
     'it': 'Principiante',
     'pl': 'Łatwy',
-    'id': 'pemula'
+    'id': 'pemula',
+    'pt-br': 'Iniciante'
   },
   labelDifficultyMedium: {
     'en': 'Intermediate - No Directions',
     'lv': 'Vidēji grūts - Bez norādēm',
     'it': 'Intermedio - Nessuna istruzione',
     'pl': 'Średni - Brak wskazówek',
-    'id': 'Medium- tidak ada arahan'
+    'id': 'Medium- tidak ada arahan',
+    'pt-br': 'Intermediário - sem direções'
   },
   labelDifficultyHard: {
     'en': 'Expert - No Directions & Random Levels',
